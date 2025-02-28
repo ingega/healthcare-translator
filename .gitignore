@@ -1,0 +1,5 @@
+# unnecesarie folders
+# or venv
+
+.idea
+.venv
