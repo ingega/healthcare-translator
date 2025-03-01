@@ -12,3 +12,8 @@ backend/audio/
 # sensitive info
 
 .env
+oai.txt
+
+# other files/folders
+
+fastapi/
