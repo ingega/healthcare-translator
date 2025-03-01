@@ -3,3 +3,8 @@
 
 .idea
 .venv
+
+# testing folders
+
+backend/test/
+backend/audio/
