@@ -6,5 +6,9 @@
 
 # testing folders
 
-backend/test/
+backend/tests/
 backend/audio/
+
+# sensitive info
+
+.env
